@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeightMate</string>
+    <string name="action_settings">Settings</string>
+    <!-- Homescreen Strings -->
+    <string name="calendar_button">Calendar</string>
+    <string name="food_button">Food</string>
+    <string name="calculator_button">Calculator</string>
+    <string name="extras_button">Extra</string>
+    <!-- Calendar Strings -->
+    <string name="title_activity_calendar">Calendar</string>
+    <!-- Calculator Strings -->
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="age_text">Age</string>
+    <string name="weight_text">Weight</string>
+    <string name="male_button">Male</string>
+    <string name="female_button">Female</string>
+    <string name="height_text">Height</string>
+    <string name="height_feet_text">Feet</string>
+    <string name="height_inches_text">Inches</string>
+    <string name="activity_text">Activity</string>
+    <string name="calculate_button">Calculate</string>
+    <!-- Food List Strings -->
+    <string name="title_activity_food_list">FoodList</string>
+    <string name="recent_foods">Recent Food</string>
+    <string name="search_foodList">Search Food</string>
+    <string name="search_food_button">Go</string>
+    <string name="add_food">Add food</string>
+    <string name="add_food_button">Add</string>
+    <string name="title_activity_calculator_results">CalculatorResultsActivity</string>
+    <string name="title_activity_extras">Extras</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
