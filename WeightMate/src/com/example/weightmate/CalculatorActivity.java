@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.RadioButton;
-
+// hi justin!
 public class CalculatorActivity extends ActionBarActivity {
 	public final static String EXTRA_BMR = "com.example.weightmate.BMR";
 	
